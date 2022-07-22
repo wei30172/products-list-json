@@ -2,7 +2,7 @@
   "products": [
     {
       "_id": "product1",
-      "image": "/product1.jpg",
+      "image": "product1.jpg",
       "title": "product1",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui justo. Curabitur lorem ipsum, finibus in hendrerit vehicula,",
       "availableSizes": ["S", "M", "L", "XL"],
@@ -18,7 +18,7 @@
     },
     {
       "_id": "product3",
-      "image": "/product3.jpg",
+      "image": "product3.jpg",
       "title": "product3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui justo. Curabitur lorem ipsum, finibus in hendrerit vehicula,",
       "availableSizes": ["M", "L"],
@@ -26,7 +26,7 @@
     },
     {
       "_id": "product4",
-      "image": "/product4.jpg",
+      "image": "product4.jpg",
       "title": "product4",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui justo. Curabitur lorem ipsum, finibus in hendrerit vehicula,",
       "availableSizes": ["L"],
@@ -34,7 +34,7 @@
     },
     {
       "_id": "product5",
-      "image": "/product5.jpg",
+      "image": "product5.jpg",
       "title": "product5",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui justo. Curabitur lorem ipsum, finibus in hendrerit vehicula,",
       "availableSizes": ["S", "XL"],
@@ -42,7 +42,7 @@
     },
     {
       "_id": "product6",
-      "image": "/product6.jpg",
+      "image": "product6.jpg",
       "title": "product6",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui justo. Curabitur lorem ipsum, finibus in hendrerit vehicula,",
       "availableSizes": ["M", "XL"],
@@ -50,7 +50,7 @@
     },
     {
       "_id": "product7",
-      "image": "/product7.jpg",
+      "image": "product7.jpg",
       "title": "product7",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui justo. Curabitur lorem ipsum, finibus in hendrerit vehicula,",
       "availableSizes": ["S", "M"],
@@ -58,7 +58,7 @@
     },
     {
       "_id": "product8",
-      "image": "/product8.jpg",
+      "image": "product8.jpg",
       "title": "product8",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui justo. Curabitur lorem ipsum, finibus in hendrerit vehicula,",
       "availableSizes": ["S"],
