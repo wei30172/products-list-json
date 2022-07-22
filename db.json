@@ -10,7 +10,7 @@
     },
     {
       "_id": "product2",
-      "image": "/product2.jpg",
+      "image": "product2.jpg",
       "title": "product2",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel dui justo. Curabitur lorem ipsum, finibus in hendrerit vehicula,",
       "availableSizes": ["S", "M", "L"],
